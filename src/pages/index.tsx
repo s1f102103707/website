@@ -9,7 +9,7 @@ const Home = () => {
         <h2>オセロゲーム</h2>
         <img src="path_to_othello_image.jpg" alt="オセロゲームの画像" />
         <p>オセロゲームは...（ここにゲームの説明を追加）</p>
-        <a href="https://github.com/your_username/othello" target="_blank">
+        <a href="https://github.com/your_username/othello" target="_blank" rel="noreferrer">
           GitHubで見る
         </a>
       </section>
@@ -18,7 +18,7 @@ const Home = () => {
         <h2>マインスイーパー</h2>
         <img src="path_to_minesweeper_image.jpg" alt="マインスイーパーの画像" />
         <p>マインスイーパーは...（ここにゲームの説明を追加）</p>
-        <a href="https://github.com/your_username/minesweeper" target="_blank">
+        <a href="https://github.com/your_username/minesweeper" target="_blank" rel="noreferrer">
           GitHubで見る
         </a>
       </section>
@@ -27,7 +27,7 @@ const Home = () => {
         <h2>迷路</h2>
         <img src="path_to_maze_image.jpg" alt="迷路の画像" />
         <p>迷路は...（ここにゲームの説明を追加）</p>
-        <a href="https://github.com/your_username/maze" target="_blank">
+        <a href="https://github.com/your_username/maze" target="_blank" rel="noreferrer">
           GitHubで見る
         </a>
       </section>
