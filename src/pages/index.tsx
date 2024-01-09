@@ -34,9 +34,9 @@ const Home = () => {
                 alt="スクリーンショット 2024-01-09 131309"
                 src="https://github.com/s1f102103707/website/assets/85672513/d4881554-8698-46b8-9d7a-436b07bb4a8e"
               />
-              <p>使用言語：TypeScript</p>
-              <p>フレームワーク：React</p>
+              <p>環境：TypeScript,React</p>
               <p>作成期間：1週間</p>
+              <p>作成趣旨：プログラミングに慣れるため。</p>
               <a href="https://s1f102103707.github.io/othello2/" target="_blank" rel="noreferrer">
                 リンクはこちら
               </a>
@@ -52,9 +52,9 @@ const Home = () => {
                 alt="スクリーンショット 2024-01-09 131220"
                 src="https://github.com/s1f102103707/website/assets/85672513/6858944c-d71b-40ae-9c01-1e10890fc8a1"
               />
-              <p>使用言語：TypeScript</p>
-              <p>フレームワーク：React</p>
+              <p>環境：TypeScript,React</p>
               <p>作成期間：3週間</p>
+              <p>作成趣旨：マインスイーパーがどんなシステムで動いているのか気になった。</p>
               <a
                 href="https://s1f102103707.github.io/minesweeper/"
                 target="_blank"
@@ -74,9 +74,9 @@ const Home = () => {
                 alt="スクリーンショット 2024-01-09 131120"
                 src="https://github.com/s1f102103707/website/assets/85672513/1b0966b8-4ca1-4995-b68f-aac2ea641d7d"
               />
-              <p>使用言語：TypeScript</p>
-              <p>フレームワーク：React</p>
+              <p>環境：TypeScript,React</p>
               <p>作成期間：2週間</p>
+              <p>作成趣旨：迷路の自動探索は第一次AIブームのスタートで作ってみてみたかった。</p>
               <a href="https://s1f102103707.github.io/maze2/" target="_blank" rel="noreferrer">
                 リンクはこちら
               </a>
