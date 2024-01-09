@@ -8,7 +8,7 @@
   padding: 0 0.5rem; /* paddingをline-heightより前に移動 */
   color: #eaeaea; /* colorをtext-alignより後に移動 */
   text-align: center; /* text-alignをpaddingより後に移動 */
-  background-image: url('/images/ts.jpg');
+  background-image: url('https://kinsta.com/jp/wp-content/uploads/sites/6/2023/05/what-is-typescript-1536x768.jpeg');
   background-position: center;
   background-size: cover;
 }

@@ -29,7 +29,11 @@ const Home = () => {
           <section className={styles.gameSection}>
             <div className={styles.gameContent}>
               <h2>オセロゲーム</h2>
-              <img src="/images/othello.png" alt="オセロゲームの画像" />
+              <img
+                width="304"
+                alt="スクリーンショット 2024-01-09 131309"
+                src="https://github.com/s1f102103707/website/assets/85672513/d4881554-8698-46b8-9d7a-436b07bb4a8e"
+              />
               <p>使用言語：TypeScript</p>
               <p>フレームワーク：React</p>
               <p>作成期間：1週間</p>
@@ -43,7 +47,11 @@ const Home = () => {
           <section className={styles.gameSection}>
             <div className={styles.gameContent}>
               <h2>マインスイーパー</h2>
-              <img src="/images/minesweeper.png" alt="マインスイーパーの画像" />
+              <img
+                width="350"
+                alt="スクリーンショット 2024-01-09 131220"
+                src="https://github.com/s1f102103707/website/assets/85672513/6858944c-d71b-40ae-9c01-1e10890fc8a1"
+              />
               <p>使用言語：TypeScript</p>
               <p>フレームワーク：React</p>
               <p>作成期間：3週間</p>
@@ -61,7 +69,11 @@ const Home = () => {
           <section className={styles.gameSection}>
             <div className={styles.gameContent}>
               <h2>迷路</h2>
-              <img src="/images/maze.png" alt="迷路の画像" />
+              <img
+                width="407"
+                alt="スクリーンショット 2024-01-09 131120"
+                src="https://github.com/s1f102103707/website/assets/85672513/1b0966b8-4ca1-4995-b68f-aac2ea641d7d"
+              />
               <p>使用言語：TypeScript</p>
               <p>フレームワーク：React</p>
               <p>作成期間：2週間</p>
